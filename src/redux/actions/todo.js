@@ -52,3 +52,4 @@ export const ACTION_HANDLERS = {
     todo => todo.id !== todoId
   )
 }
+console.log(ACTION_HANDLERS.TOGGLE_TODO)
